@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="grid-system-diagram.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-225.78011"
+     inkscape:cy="434.4125"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showborder="false"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-text-baseline="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="851"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4222" />
+    <sodipodi:guide
+       position="-520,1320"
+       orientation="1,0"
+       id="guide4228" />
+    <sodipodi:guide
+       position="360,1320"
+       orientation="1,0"
+       id="guide4230" />
+    <sodipodi:guide
+       position="360,865.00002"
+       orientation="0,1"
+       id="guide4232" />
+    <sodipodi:guide
+       position="360,0"
+       orientation="0,1"
+       id="guide4234" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:16, 16;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4255"
+       width="880"
+       height="865"
+       x="-520"
+       y="187.3622"
+       inkscape:export-filename="/Users/simonpadbury/CURRENT STUFF/HTML Email Template/grid-system-diagram.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="262.36221"
+       x="-510"
+       height="400"
+       width="860"
+       id="rect4140"
+       style="opacity:1;fill:#eeeeff;fill-opacity:1;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:16, 16;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4138"
+       width="660"
+       height="300"
+       x="-410"
+       y="282.36221" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#999999;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:16, 16;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4142"
+       width="40"
+       height="39.999992"
+       x="-510"
+       y="702.36218" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-450"
+       y="717.36218"
+       id="text4144"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4146"
+         x="-450"
+         y="717.36218">&lt;body&gt;</tspan></text>
+    <rect
+       y="762.36218"
+       x="-510"
+       height="39.999992"
+       width="40"
+       id="rect4148"
+       style="opacity:1;fill:#eeeeff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:16, 16;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4150"
+       y="777.36218"
+       x="-450"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="777.36218"
+         x="-450"
+         id="tspan4152"
+         sodipodi:role="line">&lt;table class=&quot;body-inner&quot; width=&quot;100%&quot; ... &gt;</tspan><tspan
+         y="802.36218"
+         x="-450"
+         sodipodi:role="line"
+         id="tspan4154">... ... &lt;td align=&quot;center&quot; valign=&quot;top&quot;&gt;</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:16, 16;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4156"
+       width="40"
+       height="39.999992"
+       x="-510"
+       y="822.36218" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-450"
+       y="837.36218"
+       id="text4158"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4162"
+         sodipodi:role="line"
+         x="-450"
+         y="837.36218">&lt;table class=&quot;container&quot; width=&quot;660&quot; ... &gt;</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:16, 16;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4172"
+       width="40"
+       height="40"
+       x="-510"
+       y="882.36218" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4174"
+       y="897.36218"
+       x="-450"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="897.36218"
+         x="-450"
+         id="tspan4176"
+         sodipodi:role="line">Container table cells (i.e. grid system columns)</tspan><tspan
+         y="922.36218"
+         x="-450"
+         sodipodi:role="line"
+         id="tspan4178"><tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan4202">1</tspan>/<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan4200">3</tspan>: &lt;td width=&quot;220&quot; align=&quot;center&quot; valign=&quot;top&quot;&gt;</tspan><tspan
+         y="947.36218"
+         x="-450"
+         sodipodi:role="line"
+         id="tspan4182"><tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan4204">2</tspan>/<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan4206">3</tspan>: &lt;td width=&quot;440&quot; align=&quot;center&quot; valign=&quot;top&quot;&gt;</tspan></text>
+    <rect
+       style="opacity:1;fill:#99ff99;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:16, 16;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4184"
+       width="190"
+       height="300"
+       x="-395"
+       y="282.36224" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:16, 16;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4168"
+       width="220"
+       height="300"
+       x="-410"
+       y="282.36221" />
+    <rect
+       y="282.36224"
+       x="-175"
+       height="300"
+       width="410"
+       id="rect4186"
+       style="opacity:1;fill:#99ff99;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:16, 16;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="282.36221"
+       x="-190"
+       height="300"
+       width="440"
+       id="rect4170"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:16, 16;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="972.36218"
+       x="-510"
+       height="40"
+       width="40"
+       id="rect4188"
+       style="opacity:1;fill:#99ff99;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:16, 16;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-450"
+       y="987.36218"
+       id="text4190"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-450"
+         y="987.36218"
+         id="tspan4210">Inner tables (to prevent distortion of grid, and add false padding left &amp; right in each cell)</tspan><tspan
+         sodipodi:role="line"
+         x="-450"
+         y="1012.3622"
+         id="tspan4208"><tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan4216">1</tspan>/<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan4214">3</tspan>: &lt;table class=&quot;inner&quot; width=&quot;190&quot; ... &gt;</tspan><tspan
+         id="tspan4196"
+         sodipodi:role="line"
+         x="-450"
+         y="1037.3622"><tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan4218">2</tspan>/<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan4212">3</tspan>: &lt;table class=&quot;inner&quot; width=&quot;410&quot; ... &gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="-80"
+       y="222.36221"
+       id="text4224"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4226"
+         x="-80"
+         y="222.36221">HTML Email Framework – layout grid system</tspan></text>
+  </g>
+</svg>

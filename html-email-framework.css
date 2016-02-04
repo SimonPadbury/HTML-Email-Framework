@@ -1,0 +1,170 @@
+/*
+HTML Email Framework v.1.0
+==========================
+This file is just for safekeeping/backup - don't use it. This content needs to be in the HTML email `<head>` stylesheet so that you can incorporate it using an *inliner*.
+*/
+
+/* Resets and overrides (some are client specific) */    
+#outlook a {
+  padding: 0;
+}
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+  line-height: 100%;
+}
+body {
+  width: 100%;
+  min-width: 100%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-left: 0;
+  background-image: none;
+  background-repeat: repeat;
+  background-position: top left;
+  background-attachment: scroll;
+}
+table, td {
+  border-style: none;
+  border-collapse: collapse;
+  border-spacing: 0;
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+}
+img, a img { 
+  display: block;
+  border: 0; 
+  outline: none; 
+  text-decoration: none;
+}
+/* Framework styles (classes) */
+table[class=container] {
+  width: 660px;
+}
+td[class=vertical-spacer-10] {
+  height: 10px;
+  font-size: 10px;
+  line-height: 10px;
+}
+td[class=vertical-spacer-20] {
+  height: 20px;
+  font-size: 20px;
+  line-height: 20px;
+}
+td[class=vertical-spacer-40] {
+  height: 40px;
+  font-size: 40px;
+  line-height: 40px;
+}
+td[class=dividing-line] {
+  font-size: 1px;
+  line-height: 1px;
+  border-style: none;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+h1, h2, h3 {
+  margin: 0 0 16px 0;
+  mso-line-height-rule: exactly;
+  line-height: 140%;      
+}
+p {
+  font-size: 16px;
+  margin: 0 0 16px 0;
+  mso-line-height-rule: exactly;
+  line-height: 140%;
+}
+/* Framework media queries for narrow screens */
+@media only screen and (max-width: 680px) {
+  img {
+    display: block !important;
+    max-width: 480px !important;
+    height: auto !important;
+    margin: auto !important;
+  }
+
+  table[class=container],
+  table[class=inner-wrap] {
+    display: block !important;
+    width: 480px !important;
+    margin: auto !important;
+  }
+  table[class=container] td {
+    width: 480px !important;
+    float: left !important;
+  }
+  table[class=inner-wrap] td {
+    width: 450px !important;
+    padding: 0 15px !important;
+  }
+  table[class=button] td {
+    width: 450px !important;
+    padding: 10px 0 !important;
+  }
+}
+@media only screen and (max-width: 500px) {
+  img {
+    display: block !important;
+    max-width: 320px !important;
+    height: auto !important;
+    margin: auto !important;
+  }
+  table[class=container],
+  table[class=inner-wrap] {
+    width: 320px !important;
+  }
+  table[class=container] td {
+    width: 320px !important;
+    float: left !important;
+  }
+  table[class=inner-wrap] td {
+    width: 290px !important;
+  }
+  table[class=inner-wrap] img {
+    max-width: 290px !important;
+  }
+  table[class=button] td {
+    width: 290px !important;
+  }
+}
+/* Default theme styles */
+body,
+table[class=body-inner] {
+  background-color: #f3f3f3;
+}
+table {
+  font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;
+  font-size: 16px;
+  mso-line-height-rule: exactly;
+  line-height: 140%;
+  vertical-align: text-top;
+}
+td[class=dividing-line] {
+  background-color: #dddddd;
+}
+a {
+  color: #0088cc;
+}
+table[class=button] {
+  background-color: #0088cc;      
+}
+table[class=button] td {
+  padding: 10px 0 !important;
+  color: #ffffff !important;
+}
+table[class=button] a {
+  display: block;
+  color: #ffffff !important;
+  background-color: #0088cc;
+  text-decoration: none;
+}
