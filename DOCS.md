@@ -204,7 +204,7 @@ Just do this:
 	* Second, with CSS within the `<head>` stylesheet (see note on using classes below).
 3. When you are done being creative, copy your CSS into all the HTML tags as appropriate.
 
-> **Note:** Do not use multiple classes within a single HTML tag (e.g. `class="container header"`) because this framework targets classes using **tag attributes** (e.g. `table[class=container]`. If you need more specificity then use a wrapper, e.g.:
+> **Note:** Do not use multiple classes within a single HTML tag (e.g. `class="container header"`) because this framework targets classes using **tag attributes** (e.g. `table[class=container]`). If you need more specificity then use a wrapper, e.g.:
 > 
 > ```html
 > <span class="header" ... >
