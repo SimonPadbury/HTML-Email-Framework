@@ -54,7 +54,7 @@ Centering these inner tables and controlling their width will enable you to crea
 
 For example, here is an (outer) grid with a 1/3 column and a 2/3 column:
 
-```
+```html
 <table width="660" border="0" cellpadding="0" cellspacing="0" class="container your-class">
 	<tbody>
 		<tr>
