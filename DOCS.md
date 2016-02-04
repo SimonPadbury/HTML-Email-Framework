@@ -67,7 +67,7 @@ For example, here is an (outer) grid with a 1/3 column and a 2/3 column:
 
 And here is an example inner table within a one-third width column cell:
 
-```
+```html
 ...
 <td width="220" align="center" valign="top" class="col-220">
 	<table class="inner" width="190" border="0" cellpadding="0" cellspacing="0">
@@ -98,7 +98,7 @@ For complex emails it is recommended to divide the content into sections (e.g. h
 
 I have provided two vertical spacers (10px and 20px), and a dividing line (adds a table cell containing only 1px high "line" colored #dddddd. Other styles are added via CSS.
 
-```
+```html
 <tr>
 	<td class="vertical-spacer-10" height="10">&nbsp;</td>
 </tr>
@@ -124,7 +124,7 @@ I have provided two vertical spacers (10px and 20px), and a dividing line (adds 
 
 A simple "button effect" can be created by inserting yet another table within the content inner table, and giving it `class="button"`. The other components are as follows:
 
-```
+```html
 <tr>
   <td align="center" valign="top">
     <table class="button" width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -144,7 +144,7 @@ A simple "button effect" can be created by inserting yet another table within th
 
 This responsive framework switches to a single column payout for two size-groups of narrow screens. The smaller single column layout is for 320px width phones (portrait orientation). The larger single column layout is for larger phones (and smaller phones in landscape orientation).
 
-```
+```css
 @media only screen and (max-width:680px) {
   table[class=container],
   table[class=inner-wrap] {
@@ -184,7 +184,7 @@ I have applied this switch to `table` too, in case in your design you choose to 
 
 If you need to override specific classes, **target the class as a tag attribute selector**. For example:
 
-```
+```css
 @media only screen and (max-width:320px) {
 	img[class=logo] {
 		width: 150px !important;
