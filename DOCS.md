@@ -194,7 +194,7 @@ If you need to override specific classes, **target the class as a tag attribute 
 ```
 
 
-### Building your HTML email template
+## Building your HTML email template
 
 Just do this:
 
@@ -215,7 +215,7 @@ Just do this:
 > ```
 
 
-### Bringing `<head>` styles into your tags
+## Bringing `<head>` styles into your tags
 
 Eventually, all `<head>` CSS (resets, framework plus your own styles) except the media query stuff will need to be converted into inline styles within each HTML element where they are applicable. This is because because some email clients can't read `<head>` stylesheets (and some clients strip away the email `<head>` and `<body>` tags).
 
