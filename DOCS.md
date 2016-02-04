@@ -117,7 +117,7 @@ I have provided two vertical spacers (10px and 20px), and a dividing line (adds 
 
 ```
 
-> **Tip:** If you use these helpers in a 2 or 3 column module, you may need to add `colspan="2"` or `colspan="3"`.
+> **Tip:** If you use these helpers within a 2 or 3 column section (module), you will need to add `colspan="2"` or `colspan="3"`.
 
 
 ## Simple buttons
