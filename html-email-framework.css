@@ -1,7 +1,9 @@
 /*
 HTML Email Framework v.1.0
 ==========================
-This file is just for safekeeping/backup - don't use it. This content needs to be in the HTML email `<head>` stylesheet so that you can incorporate it using an *inliner*.
+This file is just for safekeeping/backup - don't use it. 
+The content of this file needs to be in the HTML email `<head>` stylesheet 
+so that you can incorporate it using a *CSS inliner*.
 */
 
 /* Resets and overrides (some are client specific) */    
