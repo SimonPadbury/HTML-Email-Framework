@@ -206,7 +206,7 @@ Just do this:
 
 > **Note:** Do not use multiple classes within a single HTML tag (e.g. `class="container header"`) because this framework targets classes using **tag attributes** (e.g. `table[class=container]`. If you need more specificity then use a wrapper, e.g.:
 > 
-> ```
+> ```html
 > <span class="header" ... >
 > 	<table class="container" ... >
 > 		...
